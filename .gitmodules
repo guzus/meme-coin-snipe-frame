@@ -1,0 +1,6 @@
+[submodule "meme-coin-sniper-frame-server"]
+	path = meme-coin-sniper-frame-server
+	url = https://github.com/guzus/meme-coin-sniper-frame-server
+[submodule "untitled-farcaster-frame"]
+	path = untitled-farcaster-frame
+	url = https://github.com/golryang/untitled-farcaster-frame
