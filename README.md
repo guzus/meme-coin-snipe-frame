@@ -9,7 +9,7 @@ https://github.com/golryang/meme-coin-snipe-frame-frontend
 https://github.com/guzus/meme-coin-snipe-frame-server
 
 ## Demo
-Check out the live demo here: [DEMO](https://warpcast.com/~/developers/frames?url=https%3A%2F%2Fmeme-coin-snipe-frame.vercel.app)
+Check out the live demo here: [DEMO](https://github.com/golryang/meme-coin-snipe-frame-frontend)
 
 ## Overview
 
