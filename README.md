@@ -6,7 +6,7 @@ frontend: https://github.com/golryang/meme-coin-snipe-frame-frontend
 backend: https://github.com/guzus/meme-coin-snipe-frame-server
 
 ## Demo
-Check out the live demo here: [DEMO](https://untitled-farcaster-frame.vercel.app/)
+Check out the live demo here: [DEMO](https://meme-coin-snipe-frame.vercel.app)
 
 ## Overview
 
