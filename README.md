@@ -1,4 +1,4 @@
-# meme-coin-sniper-frame
+# meme-coin-snipe-frame
 
 ## frontend
 
